@@ -1,0 +1,22 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #000000;
+  }
+  body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Geist", sans-serif;
+    letter-spacing: -0.04em;
+  }
+}
+
+.theme-logo {
+  filter: invert(1);
+}
