@@ -62,7 +62,7 @@ export default function About() {
             <Target className="w-8 h-8 text-paper mb-8" strokeWidth={1} />
             <h3 className="text-3xl font-display font-semibold text-paper mb-6 uppercase tracking-tighter">Nuestra Misión</h3>
             <p className="text-paper/70 leading-relaxed font-body text-base">
-              Diseñar y construir ecosistemas digitales inexpugnables, donde el desarrollo de software limpio, la ciberseguridad de grado militar y la inteligencia artificial convergen orgánicamente desde la primera línea de código. No ensamblamos piezas; forjamos arquitecturas monolíticas de alto rendimiento para impulsar la evolución técnica de nuestros clientes.
+              Impulsar el crecimiento de negocios de todos los tamaños —desde emprendimientos locales hasta grandes corporaciones— desarrollando soluciones tecnológicas a la medida que se adaptan exactamente a sus necesidades. Ya sea una página web corporativa, un sistema de gestión empresarial (ERP/CRM) o un Software como Servicio (SaaS), nuestra misión es entregar productos donde el desarrollo impecable, la ciberseguridad y la Inteligencia Artificial trabajan juntos para transformar y optimizar las operaciones de nuestros clientes.
             </p>
           </motion.div>
 
@@ -77,7 +77,7 @@ export default function About() {
             <Eye className="w-8 h-8 text-paper mb-8" strokeWidth={1} />
             <h3 className="text-3xl font-display font-semibold text-paper mb-6 uppercase tracking-tighter">Nuestra Visión</h3>
             <p className="text-paper/70 leading-relaxed font-body text-base">
-              Erradicar la obsolescencia y la fragilidad del software moderno. Visualizamos un futuro donde ninguna plataforma dependa de parches de seguridad externos o integraciones de IA sobrepuestas, sino que nazcan con resiliencia absoluta y cognición nativa en su ADN estructural, estableciendo un nuevo estándar de élite en la industria global.
+              Convertirnos en el socio tecnológico estratégico de referencia para cualquier empresa que busque escalar al siguiente nivel. Visualizamos un ecosistema empresarial donde cualquier negocio, sin importar su tamaño, pueda acceder a desarrollo de software de élite; democratizando la tecnología para que todos puedan operar con la misma eficiencia, seguridad e innovación que los líderes globales del mercado.
             </p>
           </motion.div>
         </div>
