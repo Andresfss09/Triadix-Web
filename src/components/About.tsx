@@ -62,7 +62,7 @@ export default function About() {
             <Target className="w-8 h-8 text-paper mb-8" strokeWidth={1} />
             <h3 className="text-3xl font-display font-semibold text-paper mb-6 uppercase tracking-tighter">Nuestra Misión</h3>
             <p className="text-paper/70 leading-relaxed font-body text-base">
-              Impulsar el crecimiento de negocios de todos los tamaños —desde emprendimientos locales hasta grandes corporaciones— desarrollando soluciones tecnológicas a la medida que se adaptan exactamente a sus necesidades. Ya sea una página web corporativa, un sistema de gestión empresarial (ERP/CRM) o un Software como Servicio (SaaS), nuestra misión es entregar productos donde el desarrollo impecable, la ciberseguridad y la Inteligencia Artificial trabajan juntos para transformar y optimizar las operaciones de nuestros clientes.
+              Impulsar el crecimiento de negocios de todos los tamaños , desde emprendimientos locales hasta grandes corporaciones, desarrollando soluciones tecnológicas a la medida que se adaptan exactamente a sus necesidades. Ya sea una página web corporativa, un sistema de gestión empresarial (ERP/CRM) o un Software como Servicio (SaaS), nuestra misión es entregar productos donde el desarrollo impecable, la ciberseguridad y la Inteligencia Artificial trabajan juntos para transformar y optimizar las operaciones de nuestros clientes.
             </p>
           </motion.div>
 
@@ -86,3 +86,4 @@ export default function About() {
     </section>
   );
 }
+
