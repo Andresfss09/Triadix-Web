@@ -6,6 +6,7 @@ import Demos from "./components/Demos";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import WhatsAppButton from "./components/WhatsAppButton";
+import AudioPlayer from "./components/AudioPlayer";
 import VideoBackground from "./components/VideoBackground";
 
 export default function App() {
@@ -23,7 +24,9 @@ export default function App() {
         </main>
         <Footer />
         <WhatsAppButton />
+      <AudioPlayer />
       </div>
     </div>
   );
 }
+
